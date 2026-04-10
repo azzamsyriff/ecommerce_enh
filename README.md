@@ -17,3 +17,6 @@ Password: password
 Copyright: Azzam SA
 
 E-Commerce Website using a Native PHP
+
+Description:
+A probably-completed E-Commerce website using PHP (Native).
