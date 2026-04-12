@@ -12,9 +12,7 @@ User
 Email: azzam@user.com
 Password: password
 
-=== AUTHORIZATION ===
-
-Copyright: Azzam SA
+=== AUTHORIZATION === 
 
 E-Commerce Website using a Native PHP
 
